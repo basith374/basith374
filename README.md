@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a web developer. I make [React](https://reactjs.org/) applications most of the time
+
 🔭 I’m currently working on
 * [South side underground](ssug.in)
 * HTML Visual Designer
