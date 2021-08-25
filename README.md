@@ -8,13 +8,9 @@ I am a web developer. I make [React](https://reactjs.org/) applications most of 
 * [Static site generators](https://jamstack.org/generators/)
 
 🌱 I’m currently learning
-* [NestJS](https://nestjs.com/)
-* [ReactPixi](https://reactpixi.org/)
-* [NextAuth](https://next-auth.js.org/)
-* [TypeScript](https://www.typescriptlang.org/)
+* [Golang](https://golang.org/)
+* [Three.js](https://threejs.org/)
 * [Tailwind CSS](https://tailwindcss.com/)
-* [WebAssembly](https://webassembly.org/)
-* [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 * [Framer Motion API](https://www.framer.com/api/motion/)
 * [React transition group](http://reactcommunity.org/react-transition-group/)
 
