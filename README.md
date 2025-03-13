@@ -4,7 +4,7 @@ I am a web developer. I make [React](https://reactjs.org/) applications.
 
 🌱 I’m currently learning
 * [Typescript](https://www.typescriptlang.org)
-* [Redux Saga](https://redux-saga.js.org)
+* [Terraform](https://developer.hashicorp.com/terraform/docs)
 
 <!--
 **basith374/basith374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
